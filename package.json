@@ -1,0 +1,12 @@
+{
+  "name": "tornillo-feliz",
+  "version": "1.0.0",
+  "description": "Maqueta funcional con login y modulo financiero en MySQL.",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "mysql2": "^3.11.5"
+  }
+}
